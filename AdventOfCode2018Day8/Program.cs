@@ -4,6 +4,10 @@ using System.Linq;
 
 namespace AdventOfCode2018Day8
 {
+
+    //this code was a port to C# of Jonathan Paulsons YouTube of his Advent of Code 2018 - Day 8.
+    //Final solution included 3 recursive methods and I wanted to try it in C#.
+    //  Video link is here: https://youtu.be/WiNkRStebpQ
     class Program
     {
         static int pos = 0;
